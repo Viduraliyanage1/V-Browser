@@ -3,6 +3,7 @@
                                                  💻 ⚡ ($ - $) ⚡ 💻
 
 I’m excited to share a browser software I recently developed for desktop use. This application is designed to provide a fast, simple, and efficient browsing experience with a clean interface.
+
                                                 ✨ **Key Features:**
                                           • Lightweight and fast performance
                                           • Always-on-top window option
