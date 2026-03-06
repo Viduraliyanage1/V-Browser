@@ -11,7 +11,7 @@ I’m excited to share a browser software I recently developed for desktop use. 
 This project was built using modern frameworks and packaged as a desktop application. It’s part of my journey in exploring software development and creating practical tools.
 
                                       More updates and improvements coming soon! 💻
-
+                                             Release Versions : Version 01
 Download : https://www.mediafire.com/file/uegguvhwk45lb0b/v-browser_Setup_1.0.0.exe/file 
 
 
