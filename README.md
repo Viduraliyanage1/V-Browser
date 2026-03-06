@@ -18,8 +18,9 @@ Download : https://www.mediafire.com/file/uegguvhwk45lb0b/v-browser_Setup_1.0.0.
 
 To provide a powerful, reliable, and visually appealing browsing experience for both casual users and developers. Perfect for productivity, research, and daily browsing tasks ✨.
 
-💻 **Built With:Electron Framework 🌐.
-📧 **Developer:** Vidura Lakshan Liyanage| Email: viduraliyanage012@gmail.com |+94 766161921
+                                       💻 **Built With:Electron Framework 🌐.
+
+             📧 **Developer:** Vidura Lakshan Liyanage| Email: viduraliyanage012@gmail.com |+94 766161921
 
 #SoftwareDevelopment #DesktopApp #BrowserApp #Programming #TechProject #electron_software
 ## 📸 Logo 
